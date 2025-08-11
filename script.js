@@ -15,3 +15,6 @@ dayName.innerText = date.toLocaleString("en", {weekday:"long"})
 dayNumber.innerText = date.getDate()
 
 Year.innerText = date.getFullYear()
+
+
+/// some changes => to test commit
